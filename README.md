@@ -5,11 +5,11 @@ Your assignment is to practice positioning and floating elements by copying [thi
 
 ##### Skills Developed
 <ul>
-	<li>Learned how to use display, positioning and float properties to create layouts and arrange content via CSS</li>
-    <li>Gained an understanding of when it is appropriate to use each positioning technique</li>
-    <li>Full semantic mark-up with appropriate HTML5 sectioning elements</li>
-	<li>Used wireframe sketches to plan layout and help with design implementation</li>
-	<li>Attention to detail - attempt to create a pixel perfect design replica</li>
+	<li>Learned how to use display, positioning and float properties to create layouts and arrange content via CSS.</li>
+    <li>Gained an understanding of when it is appropriate to use each positioning technique.</li>
+    <li>Full semantic mark-up with appropriate HTML5 sectioning elements.</li>
+	<li>Used wireframe sketches to plan layout and help with design implementation.</li>
+	<li>Attention to detail - Attempt to create a pixel perfect design replica.</li>
 </ul>
 
 ##### Live Preview
